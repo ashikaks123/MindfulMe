@@ -1,4 +1,4 @@
-# MindfulMe 🎯
+# MindfulyYouth 🎯
 
 
 ## Basic Details
