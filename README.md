@@ -1,39 +1,35 @@
-# [Project Name] 🎯
+# MindfulMe 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Strikers
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Ashika K S - MACE
+- Member 2: Dyuthi Ann Johns - [College]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://guileless-frangipane-860f79.netlify.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+1.Mental Health Improvement through emotional analysis, suggestions and ai chat bot
+2.Stress relieving games
+3.Daily Highlights to help keep track of every moments
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+Mental Health Challenges faced by users beacuase of Daily life issues 
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+website that helps metally tired people.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-Python
+-HTML
+-CSS
+-JS
 
 ### Implementation
 For Software:
@@ -47,53 +43,26 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/11-JsBiHM5BbiJQ6JYWJlwHZLDWDsZb5z/view?usp=sharing
+https://drive.google.com/file/d/1hpxL48-QvRgLpgmlShnoOz2lInxaGucy/view?usp=sharing
+https://drive.google.com/file/d/19yoCwp-aYJPbSCDZQ1sA6g5-mLRwTv1v/view?usp=sharing
+https://drive.google.com/file/d/1lz6eTvHPQqVDsv5Uw6JokDIQDO28juvg/view?usp=sharing
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+(https://drive.google.com/file/d/19Gw9fQ6350w5CCxu8X888SESZqdA1hoO/view?usp=sharing)
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+https://drive.google.com/file/d/1p-IzZQkDmpUtbe_nEKpaG1fzmPzUYjfI/view?usp=sharing
 
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/16_m2eOeP6neztWAoCpLEfP6d0UA3Aw_V/view?usp=sharing
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
-Made with ❤️ at TinkerHub
+- Ashika K S: development and design
+- Dyuthi Ann Johns: development and design
