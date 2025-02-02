@@ -6,8 +6,8 @@
 
 
 ### Team Members
-- Member 1: Ashika K S - MACE
-- Member 2: Dyuthi Ann Johns - [College]
+- Member 1: Ashika K S - MACE Kothamangalam
+- Member 2: Dyuthi Ann Johns - MACE Kothamangalam
 
 ### Hosted Project Link
 https://guileless-frangipane-860f79.netlify.app/
